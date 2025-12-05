@@ -43,3 +43,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Local config (contains real API keys, do NOT commit)
+lib/config/api_config.dart
